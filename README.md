@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Allada Shanmukha
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on node.js
-- 📫 How to reach me ... alladas.cd.met17@itbhu.ac.in
+- 👀 I eat data for breakfast and play with pipelines
+- 💞️ I’m looking to collaborate on data engineering projects
+- 📫 How to reach me ... shanmukhaallada26@gmail.com
 
 <!---
 Allada-Shanmukha/Allada-Shanmukha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
